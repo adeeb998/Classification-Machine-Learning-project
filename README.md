@@ -73,3 +73,5 @@ python3 project.py
 ---
 
 >>>>>>> 4957938 (Initial commit: ML project with preprocessing and RandomForest)
+AUTHOR-
+>>>>>>> ADEEB MAQSOOD.
